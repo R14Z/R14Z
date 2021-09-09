@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @R14Z
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning and Web Dev
 - 🐍 My Main Programming Language is Python
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning Web Dev
 - 📫 How to reach me 
 Discord: R14Z#001
 Email: mdriaz12134@gmail.com
