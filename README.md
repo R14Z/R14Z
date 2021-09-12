@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @R14Z
+- 👋 Hi, I’m Riaz
 - 🐍 My Main Programming Language is Python
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Web Dev
