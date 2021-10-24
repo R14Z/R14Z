@@ -1,4 +1,9 @@
 - 👋 Hi, I’m Riaz
+<div align="center">
+    <br>
+    <img src="https://media.discordapp.net/attachments/681158538307043394/901961750390403143/riaz.png?width=1200&height=675" height="150px" />
+    <br><br>
+</div>
 - 🐍 My Main Programming Language is Python
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Web Dev
