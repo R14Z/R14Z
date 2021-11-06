@@ -6,7 +6,7 @@
 Discord: R14Z#001
 Email: mdriaz12134@gmail.com
 <div class="carbon">
-  <img src="carbon.png"> 
+  <img src="carbon.png" height=50 width=50> 
 </div>
 <!---
 R14Z/R14Z is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
