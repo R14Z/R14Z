@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Riaz
 - 🐍 My Main Programming Language is Python
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Web Dev
+- 🌱 I’m currently learning Javascript
 - 📫 How to reach me 
 Discord: R14Z#001
 Email: mdriaz12134@gmail.com
