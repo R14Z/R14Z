@@ -10,3 +10,4 @@ Email: mdriaz12134@gmail.com
 R14Z/R14Z is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[![Riaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=R14Z)](https://github.com/R14Z/github-readme-stats)
