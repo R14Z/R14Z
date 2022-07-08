@@ -11,4 +11,4 @@ R14Z/R14Z is a ✨ special ✨ repository because its `README.md` (this file) ap
 You can click the Preview link to take a look at your changes.
 --->
 ![Riaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=R14Z&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R14Z&theme=radical&Juypter_Notebook)](https://github.com/R14Z/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R14Z&theme=radical&jupyter%20notebook)](https://github.com/R14Z/github-readme-stats)
