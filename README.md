@@ -5,7 +5,7 @@
 - 📫 How to reach me 
 Discord: Riaz#5744
 Email: mdriaz12134@gmail.com
-- <a href="https://rizzler.vercel.app" target="_blank" style="list-style: none; a:link, a:visited, a:hover, a:active { text-decoration: none; color: #141321; " > My Portofolio </a>
+- <a href="https://rizzler.vercel.app" target="_blank" style="list-style: none; a:link, a:visited, a:hover, a:active { text-decoration: none; color: #141321; " > My Portoflio </a>
 <!---
 R14Z/R14Z is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
